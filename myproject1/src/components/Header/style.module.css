@@ -1,0 +1,7 @@
+.Head{
+    background-color: rgba(250, 250, 250, .7);
+    box-shadow: 1px 5px 3px -4px #000000;
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+}
